@@ -1,0 +1,1 @@
+# Responsice web design example. 
